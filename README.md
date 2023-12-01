@@ -52,3 +52,9 @@ base                  *  /opt/miniforge3
 py37                     /opt/miniforge3/envs/py37
 
 ```
+
+
+## Other helpful resources
+- https://conda.discourse.group/t/multi-user-mamba-installation/228
+- https://askubuntu.com/questions/1457726/how-and-where-to-install-conda-to-be-accessible-to-all-users
+- https://github.com/matbinder/secure-multi-user-conda
